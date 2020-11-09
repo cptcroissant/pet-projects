@@ -2,4 +2,4 @@
  Ideas, skills and knowledge. What I've learned and what I like to perform. 
 
 
-[Russian reviews sentiment analysis](https://github.com/cptcroissant/pet-projects/tree/main/restaurant%20review%20sentiment%20analysis)  
+[Russian reviews sentiment analysis with PyTorch](https://github.com/cptcroissant/pet-projects/tree/main/restaurant%20review%20sentiment%20analysis)  
